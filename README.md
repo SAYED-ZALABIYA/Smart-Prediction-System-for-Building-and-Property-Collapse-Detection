@@ -1,0 +1,1 @@
+# Smart-Prediction-System-for-Building-and-Property-Collapse-Detection
